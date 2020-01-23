@@ -14,10 +14,6 @@ main.cpp を実行すると {種類, サイズ, 色} の入力を求められま
 （実行環境によってはWarningが多く出ることがあります。）  
 <br />
 <br />
-色は以下の画像を参考にしています。
-![スクリーンショット 2020-01-23 12 50 11](https://user-images.githubusercontent.com/48121881/72956776-5cface80-3de4-11ea-93de-e9b07851c3bd.png)
-<br />
-<br />
 <br />
 出力例  
 
