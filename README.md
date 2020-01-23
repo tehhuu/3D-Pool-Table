@@ -23,7 +23,7 @@ main.cpp を実行すると {種類, サイズ, 色} の入力を求められま
 
 
 -{種類, サイズ, 色} = {Regent, 9ft, navy_blue}
-![スクリーンショット 2020-01-23 12 46 12](https://user-images.githubusercontent.com/48121881/72955174-5cf7d000-3dde-11ea-9243-55f80886b93b.png)
+![スクリーンショット 2020-01-23 12 46 12](https://user-images.githubusercontent.com/48121881/72955174-5cf7d000-3dde-11ea-9243-55f80886b93b.png) 
 
 
 
