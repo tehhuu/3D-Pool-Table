@@ -3,10 +3,7 @@
 ALL TABLE SPORTS社のモデルを参考にしています。  
 https://www.alltablesports.com.au/  
 
-  
-  
-  
-   
+<br />
 - class.cpp - クラスの定義をまとめたヘッダパイル
 - func.cpp - クラス内のものも含めた関数をまとめたヘッダファイル
 - main.cpp - 実行ファイル  
