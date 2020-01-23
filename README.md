@@ -5,14 +5,13 @@ ALL TABLE SPORTS社のモデルを参考にしています。
 <br />
 https://www.alltablesports.com.au/  
 <br />
-- class.cpp - クラスの定義をまとめたヘッダパイル
 <br />
-- func.cpp - クラス内のものも含めた関数をまとめたヘッダファイル
-<br />
+- class.cpp - クラスの定義をまとめたヘッダパイル  
+- func.cpp - クラス内のものも含めた関数をまとめたヘッダファイル  
 - main.cpp - 実行ファイル  
 <br />
-main.cpp を実行すると {種類, サイズ, 色} の入力を求められます。  
 <br />
+main.cpp を実行すると {種類, サイズ, 色} の入力を求められます。  
 （実行環境によってはWarningが多く出ることがあります。）  
 <br />
 <br />
