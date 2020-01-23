@@ -9,7 +9,8 @@ https://www.alltablesports.com.au/
 - func.cpp - クラス内のものも含めた関数をまとめたヘッダファイル  
 - main.cpp - 実行ファイル  
 <br />
-main.cpp を実行すると {種類, サイズ, 色} の入力を求められます。    
+main.cpp を実行すると {種類, サイズ, 色} の入力を求められます。  
+<br />
 （実行環境によってはWarningが多く出ることがあります。）
 <br />
 <br />
