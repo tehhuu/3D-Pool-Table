@@ -14,6 +14,11 @@ main.cpp を実行すると {種類, サイズ, 色} の入力を求められま
 （実行環境によってはWarningが多く出ることがあります。）  
 <br />
 <br />
+色は以下の画像を参考にしています。
+![スクリーンショット 2020-01-23 12 50 11](https://user-images.githubusercontent.com/48121881/72955353-017a1200-3ddf-11ea-84a8-fd019cc7bdaf.png)  
+<br />
+<br />
+<br />
 出力例  
 
 -{種類, サイズ, 色} = {Odessey, 7ft, source}
