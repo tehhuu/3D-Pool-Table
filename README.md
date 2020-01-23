@@ -2,6 +2,7 @@
 指定した種類、サイズ、色のビリヤード台を描画するプログラムです。  
 ALL TABLE SPORTS社のモデルを参考にしています。  
 https://www.alltablesports.com.au/  
+
   
   
   
@@ -9,11 +10,13 @@ https://www.alltablesports.com.au/
 - class.cpp - クラスの定義をまとめたヘッダパイル
 - func.cpp - クラス内のものも含めた関数をまとめたヘッダファイル
 - main.cpp - 実行ファイル  
+
   
   
   
 main.cpp を実行すると {種類, サイズ, 色} の入力を求められます。  
 （実行環境によってはWarningが多く出ることがあります。）  
+
   
   
   
