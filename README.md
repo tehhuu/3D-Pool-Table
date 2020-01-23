@@ -4,7 +4,7 @@
 ALL TABLE SPORTS社のモデルを参考にしています。
 <br />
 https://www.alltablesports.com.au/  
-<br />
+
 - class.cpp - クラスの定義をまとめたヘッダパイル
 <br />
 - func.cpp - クラス内のものも含めた関数をまとめたヘッダファイル
